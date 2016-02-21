@@ -1,0 +1,6 @@
+* [1.4亿在线背后的故事 —— 腾讯 QQ IM后台架构的演化与启示](http://wenku.baidu.com/view/b0bb034369eae009581becb9.html)
+* [【视频】窥探QQ基础数据库架构演变史](http://djt.qq.com/article/view/223)
+* [QQ IM后台架构的演化与启示(二) --移动时代](http://www.infoq.com/cn/presentations/evolution-and-enlightenment-of-qq-im-backend-architecture)
+* [系统架构篇丨QQ如何完成2亿用户大调度](http://www.wanhuajing.com/d244759)
+* [在腾讯开发 QQ IM 的工作体验是怎样的？](https://www.zhihu.com/question/20672463)
+* [QQ架构的讨论（整理）](http://blog.csdn.net/realxie/article/details/7265831)
